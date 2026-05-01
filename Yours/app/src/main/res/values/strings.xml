@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yours</string>
+    <string name="hint_message">Type a message…</string>
+    <string name="send">Send</string>
+    <string name="backspace">Backspace</string>
+    <string name="typing">Yours is thinking…</string>
+    <string name="pin_setup_title">Set Your PIN</string>
+    <string name="pin_unlock_title">Welcome Back</string>
+    <string name="pin_setup_subtitle">Create a 4-digit PIN to secure Yours</string>
+    <string name="pin_unlock_subtitle">Enter your PIN to unlock Yours</string>
+    <string name="pin_error_wrong">Wrong PIN. Try again.</string>
+    <string name="pin_error_mismatch">PINs don\'t match. Start over.</string>
+</resources>

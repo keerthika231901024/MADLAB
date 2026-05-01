@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary palette -->
+    <color name="colorPrimary">#3D3BF3</color>
+    <color name="colorPrimaryDark">#2422C7</color>
+    <color name="colorPrimaryLight">#6C6AF7</color>
+    <color name="colorSecondary">#9B59B6</color>
+
+    <!-- Backgrounds -->
+    <color name="colorBackground">#F0EFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorInputBackground">#EEEEFF</color>
+
+    <!-- Text -->
+    <color name="colorOnBackground">#1A1A2E</color>
+    <color name="colorSecondaryText">#6B7280</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <!-- Chat bubbles -->
+    <color name="colorUserBubble">#3D3BF3</color>
+    <color name="colorBotBubble">#FFFFFF</color>
+    <color name="colorUserBubbleText">#FFFFFF</color>
+    <color name="colorBotBubbleText">#1A1A2E</color>
+
+    <!-- PIN dots -->
+    <color name="colorPinDotEmpty">#C7C7E8</color>
+    <color name="colorPinDotFilled">#3D3BF3</color>
+    <color name="colorPinButton">#3D3BF3</color>
+
+    <!-- Error -->
+    <color name="colorError">#E53E3E</color>
+
+    <!-- Divider -->
+    <color name="colorDivider">#E5E7EB</color>
+
+    <!-- Status bar -->
+    <color name="colorStatusBar">#2422C7</color>
+
+    <!-- Typing indicator -->
+    <color name="colorTypingDot">#9B59B6</color>
+</resources>
